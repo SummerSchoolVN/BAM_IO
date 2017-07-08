@@ -1,0 +1,6 @@
+[submodule "lib/bamtools"]
+	path = lib/bamtools
+	url = https://github.com/pezmaster31/bamtools
+[submodule "lib/htslib"]
+	path = lib/htslib
+	url = https://github.com/samtools/htslib
